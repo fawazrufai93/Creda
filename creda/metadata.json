@@ -1,6 +1,0 @@
-{
-  "name": "CREDA - Your Business. Your Financial Identity.",
-  "description": "Ghana-focused fintech platform helping SMEs build a verified financial identity, understand cash flow, manage invoicing, and access institutional financing.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
